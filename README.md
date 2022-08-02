@@ -1,2 +1,2 @@
 # javascriptDOM
-Javascript DOM Excercises
+Javascript DOM Projects
